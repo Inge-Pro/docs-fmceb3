@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-w6ya6y.gitart.me/sitemap.xml
